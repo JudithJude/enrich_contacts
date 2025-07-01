@@ -1,0 +1,9 @@
+#ignoring the entire data folder
+data/
+
+
+# ignoring any stray large artifacts
+*.csv
+*.xlsx
+*.xls
+.venv/

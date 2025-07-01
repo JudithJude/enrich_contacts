@@ -1,0 +1,7 @@
+pandas
+numpy
+rapidfuzz
+openpyxl
+pyarrow
+psycopg2-binary
+SQLAlchemy
